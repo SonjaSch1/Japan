@@ -23,12 +23,12 @@ body {
 }
 h1 {
     font-weight: normal;
-    font-size:1.5em; 
+    font-size:3em; 
     text-decoration-color:  #121212;
         
 }
 .text {
-    font-size: 1.5em;
+    font-size: 2em;
     grid-column: 1 / 5;
 }
 .text p {max-width: 1300px;
@@ -52,7 +52,7 @@ header {
 .images {
     display: grid;
     grid-template-columns: 1;
-    grid-gap: 20px;
+    grid-gap: 30px;
     padding-top: 2em;
     padding-bottom: 2em;
 }
